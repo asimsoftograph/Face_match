@@ -1,0 +1,11 @@
+venv
+models/
+__pycache__/
+*.pyc
+.DS_Store
+output/
+logs/
+results/
+*.sqlite3
+data/
+doc.txt

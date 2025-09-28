@@ -1,0 +1,7 @@
+ultralytics==8.2.0     # YOLOv8 face detection
+opencv-python==4.10.0  # For image processing and saving crops
+deepface==0.0.93       # For face embeddings and similarity
+numpy==1.26.4          # Math and vector operations
+torch==2.3.0           # Required backend for YOLOv8 & DeepFace (PyTorch)
+tensorflow==2.16.1     # DeepFace backend option (some models use it)
+pandas==2.2.2          
